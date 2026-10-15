@@ -1,9 +1,10 @@
-# Ignorar todas las carpetas y archivos ocultos de configuracion/agentes si no los quieres
+# Ocultar carpetas de Claude, agentes y referencias
 .claude/
 web-universal-2026/
+agentes/
+referencias/
 
-# Ignorar todos los archivos .md en cualquier subcarpeta o raiz
-*.md
-
-# Excepcion: Permitir y no ignorar el README.md
+# Ignorar todos los archivos .md excepto el README / LÉAME principal
+/*.md
 !README.md
+!LÉAME.md
