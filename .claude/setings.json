@@ -1,0 +1,13 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:20128",
+    "ANTHROPIC_AUTH_TOKEN": "ssk-or-v1-fe667ec5638671875235f3790a8d2745ec7dd6efeba925bfca38ac2f49382d1d",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_MODEL": "groq/llama-3.3-70b-versatile",
+    "ANTHROPIC_SMALL_FAST_MODEL": "groq/llama-3.3-70b-versatile",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "groq/llama-3.3-70b-versatile",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "groq/llama-3.3-70b-versatile",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
+    "CLAUDE_CODE_DISABLE_LOGIN": "1"
+  }
+}

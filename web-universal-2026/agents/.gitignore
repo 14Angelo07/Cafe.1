@@ -1,0 +1,9 @@
+# Ignorar todas las carpetas y archivos ocultos de configuracion/agentes si no los quieres
+.claude/
+web-universal-2026/
+
+# Ignorar todos los archivos .md en cualquier subcarpeta o raiz
+*.md
+
+# Excepcion: Permitir y no ignorar el README.md
+!README.md
